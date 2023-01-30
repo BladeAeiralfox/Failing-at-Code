@@ -344,6 +344,14 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "pure_dark_skyrootwallrecipe"
+    },
+    {
+      "name": "Magesapling",
+      "type": "plant",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magesapling"
     }
   ],
   "variable_elements": [],
@@ -359,6 +367,7 @@
       "block.dupy_dupe_chest.oldensabling": "Olden sabling",
       "block.dupy_dupe_chest.pure_dark_skyrootleaves": "Pure Dark Skyrootleaves",
       "block.dupy_dupe_chest.pure_dark_skyrootwall": "Pure Dark Skyrootwall",
+      "block.dupy_dupe_chest.magesapling": "Mage sapling",
       "block.dupy_dupe_chest.stripped_pure_dark_skyroot": "Pure Dark Skyroot"
     }
   },
