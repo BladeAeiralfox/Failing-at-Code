@@ -1,0 +1,11 @@
+{
+  "_fv": 34,
+  "_type": "tab",
+  "definition": {
+    "name": "Olden Table",
+    "icon": {
+      "value": "CUSTOM:Oldenchest"
+    },
+    "showSearch": true
+  }
+}

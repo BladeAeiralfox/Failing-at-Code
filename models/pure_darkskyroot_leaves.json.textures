@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "pure_darkskyroot_leaves"
+      },
+      "name": "default"
+    }
+  }
+}

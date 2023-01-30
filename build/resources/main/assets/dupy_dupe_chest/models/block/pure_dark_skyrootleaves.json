@@ -1,0 +1,9 @@
+{
+  "parent": "dupy_dupe_chest:custom/pure_darkskyroot_leaves",
+  "textures": {
+    "all": "dupy_dupe_chest:blocks/pure_darkskyroot_leaves",
+    "particle": "dupy_dupe_chest:blocks/pure_darkskyroot_leaves",
+    "0": "dupy_dupe_chest:blocks/pure_darkskyroot_leaves"
+  },
+  "render_type": "translucent"
+}

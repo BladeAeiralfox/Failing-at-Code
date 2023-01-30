@@ -1,0 +1,8 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "dupy_dupe_chest:blocks/pure_darkskyroot_log",
+    "particle": "dupy_dupe_chest:blocks/pure_darkskyroot_log"
+  },
+  "render_type": "solid"
+}

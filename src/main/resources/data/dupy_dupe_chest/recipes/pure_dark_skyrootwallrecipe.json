@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "dupy_dupe_chest:pure_dark_skyroot"
+    },
+    "1": {
+      "item": "dupy_dupe_chest:pure_dark_skyroot"
+    },
+    "2": {
+      "item": "dupy_dupe_chest:pure_dark_skyroot"
+    },
+    "3": {
+      "item": "dupy_dupe_chest:pure_dark_skyroot"
+    },
+    "4": {
+      "item": "dupy_dupe_chest:pure_dark_skyroot"
+    },
+    "5": {
+      "item": "dupy_dupe_chest:pure_dark_skyroot"
+    }
+  },
+  "result": {
+    "item": "dupy_dupe_chest:pure_dark_skyrootwall",
+    "count": 6
+  }
+}

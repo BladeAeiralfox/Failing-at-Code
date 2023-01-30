@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "dupy_dupe_chest:block/oldenchest"
+    },
+    "facing=east": {
+      "model": "dupy_dupe_chest:block/oldenchest",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "dupy_dupe_chest:block/oldenchest",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "dupy_dupe_chest:block/oldenchest",
+      "y": 270
+    }
+  }
+}

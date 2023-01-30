@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:gold_block"
+    },
+    "1": {
+      "item": "minecraft:lime_wool"
+    },
+    "2": {
+      "item": "minecraft:gold_block"
+    },
+    "3": {
+      "item": "dupy_dupe_chest:pure_dark_skyrootplanks"
+    },
+    "4": {
+      "item": "minecraft:enchanting_table"
+    },
+    "5": {
+      "item": "dupy_dupe_chest:pure_dark_skyrootplanks"
+    },
+    "6": {
+      "item": "dupy_dupe_chest:pure_dark_skyrootplanks"
+    },
+    "7": {
+      "item": "dupy_dupe_chest:pure_dark_skyrootplanks"
+    },
+    "8": {
+      "item": "dupy_dupe_chest:pure_dark_skyrootplanks"
+    }
+  },
+  "result": {
+    "item": "dupy_dupe_chest:oldenchest",
+    "count": 1
+  }
+}
