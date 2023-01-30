@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "dupy_dupe_chest:blocks/stripped_pure_darkskyroot_log_top",
+    "up": "dupy_dupe_chest:blocks/stripped_pure_darkskyroot_log_top",
+    "north": "dupy_dupe_chest:blocks/stripped_darkskyroot_log",
+    "east": "dupy_dupe_chest:blocks/stripped_darkskyroot_log",
+    "south": "dupy_dupe_chest:blocks/stripped_darkskyroot_log",
+    "west": "dupy_dupe_chest:blocks/stripped_darkskyroot_log",
+    "particle": "dupy_dupe_chest:blocks/stripped_darkskyroot_log"
+  },
+  "render_type": "solid"
+}

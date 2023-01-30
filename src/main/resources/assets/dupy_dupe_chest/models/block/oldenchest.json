@@ -1,0 +1,9 @@
+{
+  "parent": "dupy_dupe_chest:custom/dupe_crafter",
+  "textures": {
+    "all": "dupy_dupe_chest:blocks/dupe_crafter",
+    "particle": "dupy_dupe_chest:blocks/pure_darkskyroot_planks",
+    "0": "dupy_dupe_chest:blocks/dupe_crafter"
+  },
+  "render_type": "solid"
+}

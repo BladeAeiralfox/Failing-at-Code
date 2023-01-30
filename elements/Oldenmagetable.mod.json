@@ -1,0 +1,46 @@
+{
+  "_fv": 34,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.GOLD_BLOCK"
+      },
+      {
+        "value": "Blocks.WOOL#5"
+      },
+      {
+        "value": "Blocks.GOLD_BLOCK"
+      },
+      {
+        "value": "CUSTOM:PureDarkSkyrootplanks"
+      },
+      {
+        "value": "Blocks.ENCHANTING_TABLE"
+      },
+      {
+        "value": "CUSTOM:PureDarkSkyrootplanks"
+      },
+      {
+        "value": "CUSTOM:PureDarkSkyrootplanks"
+      },
+      {
+        "value": "CUSTOM:PureDarkSkyrootplanks"
+      },
+      {
+        "value": "CUSTOM:PureDarkSkyrootplanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Oldenchest"
+    },
+    "name": "oldenmagetable",
+    "namespace": "mod"
+  }
+}

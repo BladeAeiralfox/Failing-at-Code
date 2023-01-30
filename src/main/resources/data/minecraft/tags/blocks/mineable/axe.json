@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "dupy_dupe_chest:pure_dark_skyroot",
+    "dupy_dupe_chest:stripped_pure_dark_skyroot",
+    "dupy_dupe_chest:eightsided_pure_dark_skyroot",
+    "dupy_dupe_chest:stripped_eightsided_dark_skyroot",
+    "dupy_dupe_chest:pure_dark_skyrootplanks",
+    "dupy_dupe_chest:pure_dark_skyrootwall"
+  ]
+}

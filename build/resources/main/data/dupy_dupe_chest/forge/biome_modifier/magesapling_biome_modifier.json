@@ -1,0 +1,8 @@
+{
+  "type": "forge:add_features",
+  "biomes": {
+    "type": "forge:any"
+  },
+  "features": "dupy_dupe_chest:magesapling",
+  "step": "vegetal_decoration"
+}

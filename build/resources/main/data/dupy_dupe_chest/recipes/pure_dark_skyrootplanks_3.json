@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "dupy_dupe_chest:eightsided_pure_dark_skyroot"
+    }
+  ],
+  "result": {
+    "item": "dupy_dupe_chest:pure_dark_skyrootplanks",
+    "count": 4
+  }
+}

@@ -1,0 +1,387 @@
+{
+  "mod_elements": [
+    {
+      "name": "PureDarkSkyroot",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pure_dark_skyroot"
+    },
+    {
+      "name": "StrippedPureDarkSkyroot",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stripped_pure_dark_skyroot"
+    },
+    {
+      "name": "PureDarkSkyrootleaves",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pure_dark_skyrootleaves"
+    },
+    {
+      "name": "EightsidedPureDarkSkyroot",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eightsided_pure_dark_skyroot"
+    },
+    {
+      "name": "StrippedEightsidedDarkSkyroot",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stripped_eightsided_dark_skyroot"
+    },
+    {
+      "name": "PureDarkSkyrootplanks",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pure_dark_skyrootplanks"
+    },
+    {
+      "name": "PureDarkSkyrootplanksrecipe",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pure_dark_skyrootplanksrecipe"
+    },
+    {
+      "name": "PureDarkSkyrootplanksrecipe2",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pure_dark_skyrootplanksrecipe_2"
+    },
+    {
+      "name": "PureDarkSkyrootplanks3",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pure_dark_skyrootplanks_3"
+    },
+    {
+      "name": "PureDarkSkyrootplanks4",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pure_dark_skyrootplanks_4"
+    },
+    {
+      "name": "Oldenchest",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oldenchest"
+    },
+    {
+      "name": "Theoldenchest",
+      "type": "gui",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "theoldenchest"
+    },
+    {
+      "name": "OldenchestOnBlockRightClicked",
+      "type": "procedure",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oldenchest_on_block_right_clicked",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Copypaste",
+      "type": "procedure",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copypaste",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Deposit",
+      "type": "procedure",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deposit",
+      "metadata": {
+        "return_type": "itemstack",
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Oldenmagetable",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oldenmagetable"
+    },
+    {
+      "name": "OldenTable",
+      "type": "tab",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "olden_table"
+    },
+    {
+      "name": "Oldensabling",
+      "type": "block",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oldensabling"
+    },
+    {
+      "name": "Oldensapling",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oldensapling"
+    },
+    {
+      "name": "OldensablingBlockAdded",
+      "type": "procedure",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oldensabling_block_added",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "OldensablingUpdateTick",
+      "type": "procedure",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oldensabling_update_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "OldensablingOnBlockRightClicked",
+      "type": "procedure",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oldensabling_on_block_right_clicked",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Isitemlol",
+      "type": "procedure",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "isitemlol",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Clearitem",
+      "type": "procedure",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "clearitem",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Clearitem2",
+      "type": "procedure",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "clearitem_2",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "PureDarkSkyrootwall",
+      "type": "block",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pure_dark_skyrootwall"
+    },
+    {
+      "name": "PureDarkSkyrootwallrecipe",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pure_dark_skyrootwallrecipe"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.dupy_dupe_chest.eightsided_pure_dark_skyroot": "Pure Dark Skyroot",
+      "block.dupy_dupe_chest.pure_dark_skyroot": "Pure Dark Skyroot",
+      "itemGroup.tabolden_table": "Olden Table",
+      "block.dupy_dupe_chest.stripped_eightsided_dark_skyroot": "Pure Dark Skyroot",
+      "block.dupy_dupe_chest.pure_dark_skyrootplanks": "Pure Dark Skyrootplanks",
+      "block.dupy_dupe_chest.oldenchest": "Oldenchest",
+      "block.dupy_dupe_chest.oldensabling": "Olden sabling",
+      "block.dupy_dupe_chest.pure_dark_skyrootleaves": "Pure Dark Skyrootleaves",
+      "block.dupy_dupe_chest.pure_dark_skyrootwall": "Pure Dark Skyrootwall",
+      "block.dupy_dupe_chest.stripped_pure_dark_skyroot": "Pure Dark Skyroot"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "dupy_dupe_chest",
+    "modName": "dupy dupe chest",
+    "version": "1.0.0",
+    "author": "Brianna, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "modElementsPackage": "net.mcreator.dupydupechest",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200348217
+}

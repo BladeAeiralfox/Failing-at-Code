@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "dupy_dupe_chest:block/stripped_eightsided_dark_skyroot",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "dupy_dupe_chest:block/stripped_eightsided_dark_skyroot"
+    },
+    "axis=z": {
+      "model": "dupy_dupe_chest:block/stripped_eightsided_dark_skyroot",
+      "x": 90
+    }
+  }
+}
